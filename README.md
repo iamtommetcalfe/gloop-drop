@@ -6,7 +6,7 @@ Drop orbs into the jar. Two of the same colour merge into a bigger one. Chain
 merges together for a bigger multiplier, and don't let the jar overflow past
 the line.
 
-- **Privacy policy:** https://iamtommetcalfe.github.io/gloop-drop/
+- **Privacy policy:** https://gloop-drop.com/
 - **Support:** iamtommetcalfe@gmail.com
 
 ## Common questions
